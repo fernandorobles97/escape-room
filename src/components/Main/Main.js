@@ -1,8 +1,16 @@
+import styled from 'styled-components'
 import ActionBar from "../ActionBar/ActionBar";
 import Intro from "../Intro/Intro";
 import { useDrop } from 'react-dnd';
 import './Main.scss';
 import { useState } from "react";
+
+const StyledMain = styled.main`
+  height: 100vh;
+  background: no-repeat center center fixed url('${process.env.PUBLIC_URL}/images/tavern.png');
+  background-size: contain;
+`
+
 
 const Main = () => {
   const [contents, setContents] = useState({});
@@ -32,11 +40,11 @@ const Main = () => {
 
   console.log(contents)
   return (
-    <main>
+    <StyledMain>
       <Intro />
       <ActionBar />
       <div className="drop-zone" ref={dropRef} style={styles} >Drop Contents Here</div>
-    </main>
+    </StyledMain>
   )
 }
 
