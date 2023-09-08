@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Scroll",
+    "id": 1,
+    "riddle": "You find a scroll, hastily tucked under a book, when you open it it reads “Combine these parts, each one anew, Unlock the door, and the world breaks through. The outside world awaits your stride, Assemble the key, in it, confide.",
+    "solution": "A broken key",
+    "img": "",
+    "type": "click"
+  },
+  {
+    "name": "Elk Head",
+    "id": 2,
+    "riddle": "In the mouth of the elk, a scroll is tucked, you unroll it to reveal the message “Receded back from the fielded green. In a location that remains unseen. You call my name when the game is about to conclude. When you scratch within me you might not be in the best mood.”",
+    "solution": "A Pool Table Pocket",
+    "img": "",
+    "type": "click",
+    "solution-options": ["A Pool Table Pocket", "A Green Lawn", "A Fountian", "A Forest"]
+  },
+  {
+    "name": "Talon",
+    "id": 3,
+    "riddle": "You find an Eagle talon, its sharp edge driven into the soft wood of the table, engraved in it is the message “I give warmth and light in a cozy space, With crackling sounds and a glowing embrace. What am I that brightens up your place?”",
+    "solution": "A Fireplace",
+    "img": "",
+    "type": "click",
+    "solution-options": ["The Sun", "A Fireplace", "A Glowstick", "A Witch"]
+  },
+  {
+    "name": "Safe",
+    "id": 4,
+    "riddle": "On the front of the safe, etched into the old metal, is the phrase “I'm where you rest, where comfort's found, In silence or with friends around.”",
+    "solution": "A Bench",
+    "img": "",
+    "type": "click",
+    "solution-options": ["A Bed", "A Throne", "A Bench", "A Bar"]
+  },
+  {
+    "name": "Fork",
+    "id": 5,
+    "riddle": "You find a fork lying on the floor at the mouth of the bear skin rug, the handle is stamped with the image of a bear and inscribed on the fork is the phrase “Fur and claws, in forests I dwell, A wild creature you know so well. In the woods, I roam with a steady air, Even now I fix you with a fierce glare”",
+    "solution": "A Bear",
+    "img": "",
+    "type": "click",
+    "solution-options": ["A Bear", "A Squirell", "A Cougar", "A Deer"]
+  },
+  {
+    "name": "Tankard",
+    "id": 6,
+    "riddle": "In the dimly lit tavern, a group of 3 ghosts appear around you, their ethereal tankards raised high in anticipation of your toast. Their translucent forms flicker like candle flames, and you sense a riddle in their gaze: The first ghost, draped in a tattered cloak, wears a warm and welcoming smile, as if greeting an old friend. In its translucent hand, it clutches a bouquet of flowers. The second ghost, adorned in shimmering armor, bears a look of camaraderie and trust. A spectral sword leans against the bar beside it, engraved with the word 'Alliance'. The third ghost, donning a simple, unassuming robe, exudes an aura of compassion. It holds an open book, its pages filled with names and memories of companions long past. Amidst the shroud of the spectral night, We gather here in the pale moonlight. One of these toasts our souls adore, But which, dear traveler, will you pour? Will it be for Peace, serene and calm, Or Victory in battle, with valor as your psalm? Perhaps a shared deity, a celestial spark, Or is it Friendship, what warms the heart?",
+    "solution": "Friendship",
+    "img": "",
+    "type": "click",
+    "solution-options": ["Friendship", "Peace", "A Sahred Diety", "Victory in Battle"]
+  },
+  {
+    "name": "Bear rug",
+    "id": 7,
+    "riddle": "You flip up the edge of the bear skin rug, finding a riddle stamped into the leathery hide: “In the heart of the wilderness, I'm found deep, Where the wild creatures their secrets keep. In a den or a cave, I find my station, As nature's way of rest and hibernation. What am I in this wild location?”",
+    "solution": "Sleep",
+    "img": "",
+    "type": "hover-click",
+    "solution-options": ["Eat", "Drink", "Breathe", "Sleep"]
+  },
+  {
+    "name": "Beds",
+    "id": 8,
+    "riddle": "You enter the bedroom and lay down on the soft bed. You dream of a small animal telling you the same thing over and over again. “In the heart of the wilderness, I'm found deep, Where the wild creatures their secrets keep. In a den or a cave, I find my station, As nature's way of rest and hibernation. What am I in this wild location?”",
+    "solution": "Awake",
+    "img": "",
+    "type": "hover-click",
+    "solution-options": ["Sun", "Awake", "Morning", "Sleepy"]
+  },
+  {
+    "name": "Fireplace",
+    "id": 9,
+    "riddle": "In the flames of the fireplace words flutter and dance, reading: “In the air, I soar, yet I'm not a plane, Feathers adorn me, nature's own chain. A song on my lips, though no words you've heard, What am I?”",
+    "solution": "A Bird",
+    "img": "",
+    "type": "hover-click",
+    "solution-options": ["A Bird", "A Siren", "A Plane", "A Dragon"]
+  }
+]

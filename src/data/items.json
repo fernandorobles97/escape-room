@@ -1,0 +1,39 @@
+[
+  {
+    "name": "M key fragment",
+    "message": "Upon awakening in the room you feel a hard lump in your once soft pillow. Reaching inside you find a fragment of a key with an M engraved in it",
+    "id": "1",
+    "image": ""
+  },
+  {
+    "name": "A key fragment",
+    "message": "As you lower the tankard you see an object in the bottom. Upon emptying the tankard you find a key fragment with an A engraved in it",
+    "id": "2",
+    "image": ""
+  },
+  {
+    "name": "G key fragment",
+    "message": "As you speak the words `a bird` the flames roar even higher and the fragment of a key is spit on to the hearth, a glowing G is engraved on it",
+    "id": "3",
+    "image": ""
+  },
+  {
+    "name": "I key fragment",
+    "message": "Reaching into the pocket of the pool table you pull out a key fragment with an I engraved into it",
+    "id": "4",
+    "image": ""
+  },
+  {
+    "name": "C key fragment",
+    "message": "As the safe cracks open you find a key fragment with a C engraved onto it",
+    "id": "5",
+    "image": ""
+  },
+  {
+    "name": "Safe Key",
+    "message": "Pulling a key from under a bench you see a small piece of parchment attached, on it a message reads 'Discover treasures in the strongbox with this elusive key'",
+    "id": "6",
+    "image": ""
+  }
+]
+
