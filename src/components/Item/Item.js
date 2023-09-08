@@ -1,9 +1,8 @@
 import './Item.scss';
 
-const Item = () => {
-  console.log('item')
+const Item = ({name}) => {
   return (
-    <></>
+    <div>{name}</div>
   )
 }
 
