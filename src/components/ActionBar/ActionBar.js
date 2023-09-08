@@ -1,7 +1,7 @@
 import Item from "../Item/Item";
 import { useState } from "react";
 import { useDrop } from 'react-dnd';
-import mockItems from './MockItems';
+import mockItems from './mockItems';
 import './ActionBar.scss';
 
 const ActionBar = () => {
