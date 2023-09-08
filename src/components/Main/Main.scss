@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.drop-zone {
+  border: solid 2px red;
+  height: 100%;
+}

@@ -1,15 +1,21 @@
 const mockItems = [
   {
-    name: 'apple',
-    id: 1
+    attributes: {
+      name: 'apple',
+      id: 1
+    }
   },
   {
-    name: 'banana',
-    id: 2
+    attributes: {
+      name: 'banana',
+      id: 2
+    }
   },
   {
-    name: 'orange',
-    id: 3
+    attributes: {
+      name: 'orange',
+      id: 3
+    }
   },
 ];
 
