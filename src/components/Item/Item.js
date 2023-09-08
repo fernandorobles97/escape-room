@@ -15,8 +15,8 @@ const Item = ({ item }) => {
       {!isDragging && (
         <DragPreviewImage connect={preview} src={`${process.env.PUBLIC_URL}/images/${item.image}.png`} />
       )}
-      <div ref={dragRef} >
-        <img className='object' src={`${process.env.PUBLIC_URL}/images/${item.image}`} />
+      <div >
+        <img className='object' src={`${process.env.PUBLIC_URL}/images/${item.image}`} ref={dragRef} />
       </div>
     </>
   )

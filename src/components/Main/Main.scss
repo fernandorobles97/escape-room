@@ -1,12 +1,6 @@
 main {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  align-items: flex-end;
   height: 100vh;
-}
-
-.drop-zone {
-  border: solid 2px red;
-  height: 60vh;
-  width: 20vw;
-  background-position: center;
 }
